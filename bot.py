@@ -3,7 +3,7 @@ import time
 import random
 
 pi = '3.1415926535897932384626'
-bot_token = '1360092618:AAFGIH8KOWIHKStIt24h6WojsIr58179klw'
+bot_token = 'Place your Token here'
 
 bot = telebot.TeleBot(token=bot_token)
 
